@@ -70,4 +70,8 @@ patient has had, their BMI, insulin level, age, and more.
 
 **Data Reporting:**
 
+Diabeties Report
+
+![Dashboard](https://user-images.githubusercontent.com/69600920/216275096-4ea9a3fd-acd5-41fe-9993-6eed31a85f0d.png)
+
 Tableau Dashboard: https://public.tableau.com/views/Capstone2_1_16141863764220/DiabetesReport?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
