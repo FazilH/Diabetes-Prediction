@@ -67,3 +67,7 @@ patient has had, their BMI, insulin level, age, and more.
 1\. Applying different classification algorithm to build a model.  
 2\. Creating a classification report by analyzing sensitivity, specificity, AUC(ROC curve) for each model.  
 3\. Comparing various model results to find the best performing model.
+
+**Data Reporting:**
+
+Tableau Dashboard: https://public.tableau.com/views/Capstone2_1_16141863764220/DiabetesReport?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
